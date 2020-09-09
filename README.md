@@ -1,1 +1,3 @@
--><img src="https://github.com/0xdhrv/0xdhrv/blob/master/assets/logo.gif" style="margin: auto; width: 50%; padding: 10px;"><-
+<p align="center">
+  <img src="https://github.com/0xdhrv/0xdhrv/blob/master/assets/logo.gif" />
+</p>
