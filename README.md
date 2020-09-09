@@ -1,4 +1,4 @@
-<img src="https://github.com/0xdhrv/0xdhrv/blob/master/assets/logo.gif">
+<img src="https://github.com/0xdhrv/0xdhrv/blob/master/assets/logo.gif" style="margin: auto; width: 50%; padding: 10px;">
 <!--
 **0xdhrv/0xdhrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
