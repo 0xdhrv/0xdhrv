@@ -1,4 +1,66 @@
-<link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
+<style>
+.dt {
+    display: table;
+}
+
+.dtc {
+    display: table-cell;
+}
+
+.fw6 {
+    font-weight: 600;
+}
+
+.vh-100 {
+    height: 100vh;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.white {
+    color: #fff;
+}
+
+.bg-dark-pink {
+    background-color: #d5008f;
+}
+
+.ph3 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.tc {
+    text-align: center;
+}
+
+.f6 {
+    font-size: .875rem;
+}
+
+.v-mid {
+    vertical-align: middle;
+}
+
+@media screen and (min-width: 30em) and (max-width: 60em) {
+    .f2-m {
+        font-size: 2.25rem;
+    }
+}
+
+@media screen and (min-width: 60em) {
+    .ph4-l {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+    .f-subheadline-l {
+        font-size: 5rem;
+    }
+}
+</style>
 <article class="vh-100 dt w-100">
   <div class="dtc v-mid tc white ph3 ph4-l">
 	  <img src="https://github.com/0xdhrv/0xdhrv/blob/master/assets/logo.gif" style="margin: auto; width: 50%; padding: 10px;">
