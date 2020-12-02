@@ -7,3 +7,7 @@
 <p align="center">
   <h1>Dhruv Suthar</h1>
 </p>
+
+<p>
+   Developer, Designer and Minimalism
+</p>
