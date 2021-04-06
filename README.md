@@ -11,3 +11,8 @@
 <p>
    Developer, Designer and Minimalism
 </p>
+
+<p>
+   <!--START_SECTION:waka-->
+   <!--END_SECTION:waka-->
+</p>
