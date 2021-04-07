@@ -12,7 +12,6 @@
    Developer, Designer and Minimalism
 </p>
 
-<p>
 <!--START_SECTION:waka-->
 ```text
 Markdown     20 mins         ███████████████░░░░░░░░░░   59.50 % 
@@ -20,4 +19,3 @@ JavaScript   7 mins          █████▒░░░░░░░░░░░
 JSON         6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.14 % 
 ```
 <!--END_SECTION:waka-->
-</p>
