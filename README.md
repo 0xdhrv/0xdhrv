@@ -13,7 +13,7 @@
 </p>
 
 <p>
-   <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 ```text
 Markdown     20 mins         ███████████████░░░░░░░░░░   59.50 % 
 JavaScript   7 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.35 % 
