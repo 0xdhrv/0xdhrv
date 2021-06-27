@@ -14,11 +14,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 hrs 52 mins   xxxxxxxxxxxx·············   45.08 % 
-CSS          2 hrs 49 mins   xxxxxxx··················   26.08 % 
-Other        1 hr 16 mins    xxx······················   11.73 % 
-C#           42 mins         xx·······················   06.60 % 
-Python       41 mins         xx·······················   06.35 % 
+JavaScript   4 hrs 52 mins   xxxxxxxxxxxxx············   49.77 % 
+CSS          2 hrs 49 mins   xxxxxxxx·················   28.80 % 
+Other        56 mins         xxx······················   09.55 % 
+C#           42 mins         xx·······················   07.28 % 
+JSON         26 mins         xx·······················   04.57 % 
 ```
 <!--END_SECTION:waka-->
 
