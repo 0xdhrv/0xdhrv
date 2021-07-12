@@ -14,11 +14,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Bash         3 hrs 22 mins   xxxxxx···················   23.77 % 
-Other        2 hrs 59 mins   xxxxxx···················   21.11 % 
-JavaScript   2 hrs 19 mins   xxxxx····················   16.40 % 
-CSS          1 hr 56 mins    xxxx·····················   13.68 % 
-HTML         1 hr 40 mins    xxx······················   11.80 % 
+Bash         3 hrs 22 mins   xxxxxx···················   22.92 % 
+Other        3 hrs 5 mins    xxxxxx···················   21.00 % 
+JavaScript   2 hrs 32 mins   xxxxx····················   17.24 % 
+CSS          1 hr 56 mins    xxxx·····················   13.15 % 
+HTML         1 hr 54 mins    xxxx·····················   12.95 % 
 ```
 <!--END_SECTION:waka-->
 
